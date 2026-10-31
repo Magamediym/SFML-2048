@@ -1,0 +1,16 @@
+# Игнорировать папки сборки Visual Studio
+x64/
+Debug/
+Release/
+
+
+# Игнорировать файлы Visual Studio
+*.vcxproj.user
+*.pdb
+*.ilk
+*.exe
+*.dll
+
+# Игнорировать кэш Visual Studio
+.vs/
+*.ipch
