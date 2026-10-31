@@ -24,3 +24,4 @@
 2. Откройте файл решения (.slnx) в Visual Studio.
 3. Убедитесь, что в настройках проекта подключена библиотека SFML.
 4. Соберите проект (Build) и запустите (Run).
+   <img width="747" height="796" alt="Screenshot" src="https://github.com/user-attachments/assets/10d516f3-fded-4e43-812f-217bd9ef0a74" />
